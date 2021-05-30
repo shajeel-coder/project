@@ -1,0 +1,277 @@
+#linkname{
+	font-size:35px;
+
+
+}
+
+
+#second{
+	background-color: #4ab9ed;
+}
+#h1second{
+	color: #fff;
+	font-weight: 600;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	font-size: 40px;
+	font-weight: bold;
+
+}
+.h1paragraph{
+	color: #7a7a7a;
+	font-size: 40px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	margin-top: 15%;
+
+}
+#rowside{
+	color: #fff;
+    letter-spacing:1px;
+	font-family: "Futura PT Medium";
+
+}
+
+.text2{
+    color: #fff;
+    letter-spacing:1px;
+	font-weight: bold;
+	font-family: "Futura PT Medium";
+}
+
+.text3{
+   color: #fff;
+    letter-spacing:1px;
+	font-weight: bold;
+	font-family: "Futura PT Medium";
+}
+
+
+h1 ,  p {
+	color: #7a7a7a;
+	font-family: "Futura PT Medium";
+	font-size: 20px;
+}
+
+.text{
+	color: #7a7a7a;
+	font-size: 35px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	font-weight: bold;
+}
+.p{
+	color: #7a7a7a;
+	font-size: 22px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+
+	
+}
+
+span , i {
+	color: #6ec1e4;
+	
+	font-weight: bold; 
+	font-size: 50px;
+}
+.text4{
+    color: #6ec1e4;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	font-weight: bolder;
+
+}
+
+h3 , p {
+
+	color: #7a7a7a;
+	font-family: "Futura PT Medium";
+
+}
+
+.section3{
+		background-color: #4ab9ed;
+
+}
+.text5{
+    color: #fff;
+    letter-spacing:1px;
+	font-weight: bold;
+	font-family: "Futura PT Medium";
+	font-size: 35px;
+
+}
+.text6{
+   color: #fff;
+    letter-spacing:1px;
+	font-weight: bold;
+	 font-family: 'Futura PT Medium', serif;
+	font-size:18px;}
+
+.card{
+	background-color: #bdc3c7;
+	color: #fff;
+
+	 border-radius: 17px;
+}
+
+.text7{
+     color: #fff;
+    letter-spacing:1px;
+	font-weight: bold;
+	font-family: "Futura PT Medium";
+	
+}
+
+.btn-lg{
+	
+	border-radius:20px;
+	letter-spacing:1px;
+	font-weight: bold;
+	font-family: "Futura PT Medium";
+
+	
+}
+
+.btn-md{
+	
+	border-radius:20px;
+	letter-spacing:1px;
+	font-weight: bold;
+	font-family: "Futura PT Medium";	
+}
+
+.btn-md:hover{
+	background-color: white;
+	color: blue
+
+}
+
+
+
+.btn-lg:hover{
+	background-color: white;
+	color: blue
+
+}
+
+.text8{
+   color: #7a7a7a;
+	font-size: 35px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	font-weight: bold;
+
+}
+.text8-d{
+ color: #7a7a7a;
+	font-size: 25px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	font-weight: bold;}
+.alt{
+	margin-left:38%;
+}
+
+.text9 ,h3{
+	 color: #6ec1e4;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	font-weight: bolder;
+}
+
+.mb-2{
+	background-color: #4ab9ed;
+	padding: 2px;
+	margin-left:190px;
+	width: 15%;
+	text-align: center;
+}
+.icon{
+	color: white;
+	font-size:25px;
+
+
+}
+.blue{
+	background-color: #4ab9ed;
+	padding: 7%;
+}
+.linkk{
+	font-weight: bold;
+	color: white;
+	font-size:25px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+}
+
+.text12{
+	font-weight: bold;
+	color: #4ab9ed;
+	font-size:40px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+}
+.text13{
+	 color: #7a7a7a;
+	font-size: 22px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	
+}
+
+ul , li, a {
+	 color: white;
+	font-size:18px;
+	letter-spacing:1px;
+	font-family: "Futura PT Medium";
+	font-weight: bolder;
+
+}
+
+
+.navbar{
+	background-color: #7a7a7a;
+	color: white;
+}
+.nav-link{
+	color: white;
+}
+
+.navlink:hover{
+   color: #4ab9ed;	
+}
+.navbar-toggler-icon{
+background-color: white;}
+
+#h4heading{
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+.cardheight{
+	height: 100%;
+	font-size: 20px;
+	background-color: #4ab9ed;
+}
+.mt-2{
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+label{
+	font-weight: bold;
+	color: #7a7a7a;
+}
+
+input{
+	color: lightgrey;
+}
+
+.btnnew{
+	margin-left:30%;
+	margin-top:10%;
+	width: 30%;
+
+}
